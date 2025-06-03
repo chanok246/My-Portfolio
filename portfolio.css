@@ -32,7 +32,16 @@ nav ul li a {
 
 /* Hero Section */
 .hero {
-    padding: 50px 20px;
+    padding: 50px 20px;   
+}
+
+/* HERO TITLE STYLING */
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #00e6e6; /* bright turquoise for strong contrast */
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6); /* adds readability on dark backgrounds */
+    margin-top: 20px;
 }
 
 .profile-picture {
