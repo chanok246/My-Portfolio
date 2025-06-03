@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 /* HERO TITLE STYLING */
-.hero h1 {
+.hero {
     font-size: 3rem;
     font-weight: bold;
     color: #00e6e6; /* bright turquoise for strong contrast */
