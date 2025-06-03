@@ -1,4 +1,4 @@
-tbody {
+wetbody {
     font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -7,6 +7,16 @@ tbody {
     color: #eee;
 }
 
+.hero p {
+    font-size: 18px;
+    color: #f0f0f0; /* Light text to contrast background */
+    max-width: 800px;
+    margin: 20px auto;
+    line-height: 1.6;
+    background-color: rgba(0, 0, 0, 0.4); /* Optional: darken background */
+    padding: 15px;
+    border-radius: 10px;
+}
 /* Navigation Bar */
 nav {
     background: #000;
